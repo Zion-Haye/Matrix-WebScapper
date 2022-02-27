@@ -83,6 +83,3 @@ for x in range(1 , 123):
 
 workbook.close()
 
-#print(product_name)
-#print(product_price)
-#print(product_availability)
